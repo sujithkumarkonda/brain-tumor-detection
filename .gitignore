@@ -1,0 +1,24 @@
+# ---- Large dataset (do NOT upload; download from Kaggle instead) ----
+BrainTumor/
+data/
+data set/
+*.zip
+
+# ---- Python ----
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# ---- Training outputs ----
+runs/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- OS / editor files ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
